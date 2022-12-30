@@ -20,31 +20,31 @@ In this lab we're going to walk through how to create an Active Directory enviro
 
 <p align="center">
 Step 1: <br/>
-<img src=""/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Step 2:  <br/>
-<img src=""/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Step 3: <br/>
-<img src=""/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Step 4:  <br/>
-<img src=""/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Step 5:  <br/>
-<img src=""/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Step 6:  <br/>
-<img src=""/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Step 7:  <br/>
-<img src=""/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 
 <!--
