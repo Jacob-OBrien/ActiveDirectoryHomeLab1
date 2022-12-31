@@ -13,7 +13,7 @@ In this lab we're going to walk through how to create an Active Directory enviro
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b>
+- <b>Windows 10</b>
 - <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
